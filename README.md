@@ -1,1 +1,1 @@
-# Meu modelo de instagram :>
+# Instagram interface elaborado em HTML, CSS & JS.
